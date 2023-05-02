@@ -100,7 +100,7 @@
       <workItem from="1682851272119" duration="444000" />
       <workItem from="1682972697161" duration="239000" />
       <workItem from="1682973031113" duration="731000" />
-      <workItem from="1682973861646" duration="8312000" />
+      <workItem from="1682973861646" duration="8613000" />
     </task>
     <servers />
   </component>
@@ -116,6 +116,17 @@
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
                   <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="P_1_1_3-4_JDBC_Hibernate-last_task/main" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
